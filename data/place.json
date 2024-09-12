@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Cox's Bazar",
+      "location": "Chittagong Division",
+      "description": "Cox’s Bazar is globally renowned for its sprawling 120 km stretch of unbroken sandy beach, making it the longest sea beach in the world. Located in the southeast of Bangladesh, this beach town is a paradise for tourists seeking a tranquil escape by the Bay of Bengal. Visitors can enjoy sunbathing, swimming, and surfing along the beach or take a stroll along the quieter Inani Beach, known for its picturesque setting with coral stones scattered along the shore. Beyond the beach, Himchari National Park offers breathtaking waterfalls and nature trails for adventure seekers. Cox’s Bazar is also a launch point for trips to Saint Martin’s Island, Bangladesh’s only coral island, which features crystal-clear waters ideal for snorkeling. The peak season for tourists is between November and March, when the weather is cool and the sky is clear, perfect for beach activities and exploring the nearby attractions.",
+      "img_url": "https://i.ibb.co.com/BfNN7Pn/Rectangle-1.png",
+      "attractions": [
+        "Inani Beach",
+        "Himchari National Park",
+        "Saint Martin's Island"
+      ],
+      "best_time_to_visit": "November to March"
+    },
+    {
+      "id": 2,
+      "name": "Sundarbans",
+      "location": "Khulna Division",
+      "description": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site, sprawling across the southern regions of Bangladesh. It’s famous for its unique ecosystem and as the home of the elusive Royal Bengal Tiger. The forest is a haven for wildlife enthusiasts, offering opportunities to spot saltwater crocodiles, spotted deer, wild boar, and numerous bird species. Exploring the forest via boat along its intricate network of tidal waterways is the most popular way to witness its beauty. Wildlife safaris, birdwatching, and visits to the Karamjol Wildlife Center are highlights. The Sundarbans serves as a natural barrier against storms and tidal surges, making it a vital ecological area. October to February is the best time to visit, offering a pleasant climate for exploration and higher chances of wildlife sightings.",
+      "img_url": "https://i.ibb.co.com/ByhBDyY/sundorbon.png",
+      "attractions": [
+        "Mangrove Forest",
+        "Wildlife Safari",
+        "Karamjol Wildlife Center"
+      ],
+      "best_time_to_visit": "October to February"
+    },
+    {
+      "id": 3,
+      "name": "Srimangal",
+      "location": "Sylhet Division",
+      "description": "Srimangal, located in the northeastern region of Bangladesh, is a picturesque destination known as the 'Tea Capital of Bangladesh.' The town is surrounded by rolling hills covered in lush green tea plantations. Srimangal offers visitors a peaceful retreat into nature with attractions like Lawachara National Park, a forest reserve home to diverse wildlife including the endangered Hoolock Gibbons. Madhabpur Lake, a serene spot nestled in tea estates, provides stunning views and a relaxing ambiance. Visitors can also explore the traditional lifestyles of the local indigenous communities, such as the Monipuri and Khasia tribes. Srimangal is ideal for eco-tourism and nature enthusiasts, with October to February being the best time to enjoy its cool and pleasant weather.",
+      "img_url": "https://i.ibb.co.com/1q2NsW6/Sreemongol.png",
+      "attractions": [
+        "Lawachara National Park",
+        "Madhabpur Lake",
+        "Tea Gardens"
+      ],
+      "best_time_to_visit": "October to February"
+    },
+    {
+      "id": 4,
+      "name": "Bandarban",
+      "location": "Chittagong Hill Tracts",
+      "description": "Bandarban is a hidden gem in the southeastern region of Bangladesh, known for its stunning hilly landscapes, tribal culture, and scenic waterfalls. The town is located deep in the Chittagong Hill Tracts, offering a range of adventure activities such as trekking, boating, and exploring remote tribal villages. Nilgiri Hill, one of the highest peaks in Bangladesh, offers panoramic views of the surrounding hills and valleys. Another must-visit is Boga Lake, a beautiful crater lake situated at 1,246 meters above sea level, accessible only through a challenging trek. Visitors can also enjoy boat rides on the Sangu River or visit Chimbuk Hill for a scenic drive. The best time to visit Bandarban is from November to March, when the weather is ideal for outdoor exploration and the waterfalls are at their most spectacular.",
+      "img_url": "https://i.ibb.co.com/bHGBbzf/Sajek.png",
+      "attractions": [
+        "Nilgiri Hill",
+        "Boga Lake",
+        "Sangu River"
+      ],
+      "best_time_to_visit": "November to March"
+    },
+    {
+      "id": 5,
+      "name": "Rangamati",
+      "location": "Chittagong Hill Tracts",
+      "description": "Rangamati is a tranquil hill town nestled in the Chittagong Hill Tracts, known for its breathtaking views and serene Kaptai Lake. It’s a perfect destination for those looking to escape the hustle and bustle of city life and immerse themselves in natural beauty. Kaptai Lake, created by the Karnaphuli River dam, is one of the largest artificial lakes in Bangladesh and offers scenic boat trips that reveal the stunning landscape of surrounding hills and forests. Visitors can explore tribal culture in Rangamati by visiting traditional Chakma and Marma villages or the Hanging Bridge, a popular tourist spot. Sajek Valley, another notable attraction, offers majestic sunrise and sunset views over the rolling hills. The best time to visit Rangamati is from October to March, when the weather is cool and dry, perfect for outdoor activities.",
+      "img_url": "https://i.ibb.co.com/0jgQGwm/paharpur.jpg",
+      "attractions": [
+        "Kaptai Lake",
+        "Sajek Valley",
+        "Hanging Bridge"
+      ],
+      "best_time_to_visit": "October to March"
+    }
+  ]
