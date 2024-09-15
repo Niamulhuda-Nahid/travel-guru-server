@@ -1,0 +1,170 @@
+[
+    {
+      "hotel_id": 1,
+      "name": "Dhaka Grand Hotel",
+      "location": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "rating": 4.5,
+      "img_url": "https://i.ibb.co.com/grJG0JH/Rectangle-26.png",
+      "rooms": [
+        {
+          "room_id": 101,   
+          "type": "Deluxe Room",
+          "price_per_night": 120,
+          "capacity": 2,
+          "bed": "King Bed",
+          "bath": 1,
+          "amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Flat-screen TV",
+            "Mini Bar",
+            "24/7 Room Service"
+          ]
+        },
+        {
+          "room_id": 102,
+          "type": "Executive Suite",
+          "price_per_night": 250,
+          "capacity": 4,
+          "bed": "Queen Bed",
+          "bath": 2,
+          "amenities": [
+            "Free Wi-Fi",
+            "Living Room",
+            "Kitchenette",
+            "Private Balcony",
+            "Jacuzzi"
+          ]
+        }
+      ]
+    },
+    {
+      "hotel_id": 2,
+      "name": "Chittagong Bay Resort",
+      "location": {
+        "city": "Chittagong",
+        "country": "Bangladesh"
+      },
+      "rating": 4.7,
+      "img_url": "https://i.ibb.co.com/MG4WF8V/Rectangle-27.png",
+      "rooms": [
+        {
+          "room_id": 201,
+          "type": "Sea View Room",
+          "price_per_night": 180,
+          "capacity": 2,
+          "bed": "Queen Bed",
+          "bath": 1,
+          "amenities": [
+            "Sea View",
+            "Free Wi-Fi",
+            "Flat-screen TV",
+            "Air Conditioning",
+            "Mini Bar"
+          ]
+        },
+        {
+          "room_id": 202,
+          "type": "Luxury Villa",
+          "price_per_night": 400,
+          "capacity": 6,
+          "bed": "King Bed",
+          "bath": 3,
+          "amenities": [
+            "Private Pool",
+            "Sea View",
+            "Kitchenette",
+            "Jacuzzi",
+            "24/7 Room Service"
+          ]
+        }
+      ]
+    },
+    {
+      "hotel_id": 3,
+      "name": "Sylhet Serenity Hotel",
+      "location": {
+        "city": "Sylhet",
+        "country": "Bangladesh"
+      },
+      "rating": 4.3,
+      "img_url": "https://i.ibb.co.com/4V3jF3P/Rectangle-28.png",
+      "rooms": [
+        {
+          "room_id": 301,
+          "type": "Standard Room",
+          "price_per_night": 100,
+          "capacity": 2,
+          "bed": "Double Bed",
+          "bath": 1,
+          "amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Flat-screen TV",
+            "Mini Fridge"
+          ]
+        },
+        {
+          "room_id": 302,
+          "type": "Family Suite",
+          "price_per_night": 220,
+          "capacity": 5,
+          "bed": "King Bed",
+          "bath": 2,
+          "amenities": [
+            "Free Wi-Fi",
+            "Living Room",
+            "Kitchenette",
+            "Flat-screen TV",
+            "Balcony"
+          ]
+        }
+      ]
+    },
+    {
+      "hotel_id": 4,
+      "name": "Cox's Bazar Beach Resort",
+      "location": {
+        "city": "Cox's Bazar",
+        "country": "Bangladesh"
+      },
+      "rating": 4.8,
+      "img_url": "https://i.ibb.co.com/MG4WF8V/Rectangle-27.png",
+      "rooms": [
+        {
+          "room_id": 401,
+          "type": "Beachfront Room",
+          "price_per_night": 200,
+          "capacity": 2,
+          "bed": "King Bed",
+          "bath": 1,
+          "amenities": [
+            "Beach View",
+            "Free Wi-Fi",
+            "Flat-screen TV",
+            "Mini Bar",
+            "24/7 Room Service"
+          ]
+        },
+        {
+          "room_id": 402,
+          "type": "Penthouse Suite",
+          "price_per_night": 500,
+          "capacity": 6,
+          "bed": "King Bed",
+          "bath": 3,
+          "amenities": [
+            "Private Terrace",
+            "Beach View",
+            "Jacuzzi",
+            "Private Bar",
+            "Kitchenette",
+            "Living Room"
+          ]
+        }
+      ]
+    }
+  ]
